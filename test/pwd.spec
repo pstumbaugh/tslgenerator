@@ -1,27 +1,27 @@
 # Length
     Length:
-        0.
-        7.
+        0. [single]
+        7. 
         8.
         20.
         21.
 # Number
     Number:
-        None.
+        None. [single]
         1.
         Many.
 # Uppercase
     Uppercase:
-        None.
+        None. [property no_upper]
         1.
         Many.
 # Lowercase
     Lowercase:
-        None.
+        None. [if !no_upper] [property no_lower]
         1.
         Many.
 # Symbol
     Symbol:
-        None.
+        None. [single]
         1.
         Many.

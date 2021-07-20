@@ -1,0 +1,222 @@
+
+Test Case 1  		<error>
+   Length :  0
+
+
+Test Case 2  		<single>
+   Length :  less15
+
+
+Test Case 3  		<single>
+   Length :  more16
+
+
+Test Case 4  		(Key = 3.1.14.)
+   Length     :  15
+   CheckDigit :  valid
+   Prefix     :  2720
+
+
+Test Case 5  		(Key = 3.1.15.)
+   Length     :  15
+   CheckDigit :  valid
+   Prefix     :  34
+
+
+Test Case 6  		(Key = 3.1.16.)
+   Length     :  15
+   CheckDigit :  valid
+   Prefix     :  37
+
+
+Test Case 7  		(Key = 3.1.18.)
+   Length     :  15
+   CheckDigit :  valid
+   Prefix     :  other
+
+
+Test Case 8  		(Key = 3.2.15.)
+   Length     :  15
+   CheckDigit :  notValid
+   Prefix     :  34
+
+
+Test Case 9  		(Key = 3.2.16.)
+   Length     :  15
+   CheckDigit :  notValid
+   Prefix     :  37
+
+
+Test Case 10 		(Key = 3.2.18.)
+   Length     :  15
+   CheckDigit :  notValid
+   Prefix     :  other
+
+
+Test Case 11 		(Key = 4.1.1.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  4
+
+
+Test Case 12 		(Key = 4.1.2.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  4
+
+
+Test Case 13 		(Key = 4.1.3.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  51
+
+
+Test Case 14 		(Key = 4.1.4.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  52
+
+
+Test Case 15 		(Key = 4.1.5.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  53
+
+
+Test Case 16 		(Key = 4.1.6.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  54
+
+
+Test Case 17 		(Key = 4.1.7.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  55
+
+
+Test Case 18 		(Key = 4.1.8.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  2221
+
+
+Test Case 19 		(Key = 4.1.9.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  23
+
+
+Test Case 20 		(Key = 4.1.10.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  24
+
+
+Test Case 21 		(Key = 4.1.11.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  25
+
+
+Test Case 22 		(Key = 4.1.12.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  26
+
+
+Test Case 23 		(Key = 4.1.13.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  2720
+
+
+Test Case 24 		(Key = 4.1.17.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  37
+
+
+Test Case 25 		(Key = 4.1.18.)
+   Length     :  16
+   CheckDigit :  valid
+   Prefix     :  other
+
+
+Test Case 26 		(Key = 4.2.1.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  4
+
+
+Test Case 27 		(Key = 4.2.3.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  51
+
+
+Test Case 28 		(Key = 4.2.4.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  52
+
+
+Test Case 29 		(Key = 4.2.5.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  53
+
+
+Test Case 30 		(Key = 4.2.6.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  54
+
+
+Test Case 31 		(Key = 4.2.7.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  55
+
+
+Test Case 32 		(Key = 4.2.8.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  2221
+
+
+Test Case 33 		(Key = 4.2.9.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  23
+
+
+Test Case 34 		(Key = 4.2.10.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  24
+
+
+Test Case 35 		(Key = 4.2.11.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  25
+
+
+Test Case 36 		(Key = 4.2.12.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  26
+
+
+Test Case 37 		(Key = 4.2.13.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  2720
+
+
+Test Case 38 		(Key = 4.2.18.)
+   Length     :  16
+   CheckDigit :  notValid
+   Prefix     :  other
+
